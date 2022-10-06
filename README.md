@@ -2,8 +2,6 @@
 <h3 align="center">Sou desenvolvedor de software amante da tecnologia que está sempre em busca de conhecimento.</h3>
 <br/>
 
-- 👷 Atualmente como Engenheiro Software no [Itaú Unibanco](https://www.itau.com.br/)
-
 - 🎓 Formado em Ciência da Computação na [FACAPE](http://www.facape.br/)
 
 - ☁️ Certificado em AWS Certified Developer - Associate
